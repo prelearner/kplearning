@@ -1,2 +1,2 @@
 # kplearning
-record my learning process
+Record my learning process
